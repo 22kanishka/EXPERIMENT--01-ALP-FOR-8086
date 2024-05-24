@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : KANISHKA
+### Name : KANISHKA P
 
 ### Roll no : 2305001011
 
-### Date of experiment : 26-02-2024
+
 
 
 
