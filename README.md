@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : R.BRINDHA
+### Name : KANISHKA
 
-### Roll no : 212222230023
+### Roll no : 2305001011
 
 ### Date of experiment : 26-02-2024
 
